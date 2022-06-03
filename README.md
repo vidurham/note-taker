@@ -10,6 +10,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 - [Heroku](#heroku)
+- [Screenshot](#screenshot)
 
 ### Description
 An application that can be used to write and save notes. This application uses Express.js back end and saves and retrieves note data from a JSON file
